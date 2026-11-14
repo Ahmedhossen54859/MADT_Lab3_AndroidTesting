@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#00897B</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_page">#F5F7FB</color>
+    <color name="card_surface">#FFFFFF</color>
+    <color name="card_stroke">#E0E4EB</color>
+    <color name="text_title">#1A1D20</color>
+    <color name="text_subtitle">#616E7C</color>
+    <color name="text_stat_label">#486581</color>
+    <color name="stat_badge_bg">#EBF4FF</color>
+    <color name="stat_badge_text">#1976D2</color>
+    <color name="btn_clear_text">#D32F2F</color>
+    <color name="btn_clear_stroke">#EF9A9A</color>
+</resources>

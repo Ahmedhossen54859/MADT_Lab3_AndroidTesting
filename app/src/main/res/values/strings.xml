@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Word Counter</string>
+    <string name="app_subtitle">MADT Lab #3 — Text Analyzer</string>
+    <string name="input_hint">Type or paste your text here…</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_clear">Clear</string>
+    <string name="results_header">Text Analysis Results</string>
+    <string name="label_words">Total Words</string>
+    <string name="label_characters">Total Characters</string>
+    <string name="label_chars_no_spaces">Characters (without spaces)</string>
+    <string name="label_sentences">Total Sentences</string>
+    <string name="label_paragraphs">Total Paragraphs</string>
+    <string name="default_count">0</string>
+    <string name="msg_empty_input">Please enter some text to calculate.</string>
+    <string name="msg_cleared">Input and results cleared.</string>
+</resources>
